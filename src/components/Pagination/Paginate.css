@@ -1,0 +1,33 @@
+.MuiTablePagination-spacer {
+    flex: none;
+}
+
+.MuiTablePagination-toolbar {
+    width: 100%;
+}
+
+.MuiTablePagination-selectRoot{
+    margin-left: 1px;
+    margin-right: 10px;
+}
+
+.MuiTableCell-root {
+    border-bottom: none;
+    color: #3c3535;
+}
+
+.MuiTablePagination-select {
+    text-align: center;
+    padding-left: 16px;
+    padding-right: 24px;
+    text-align-last: right;
+}
+.MuiTypography-root {
+    color: #3c3535 !important;
+}
+.MuiTypography-root.MuiTablePagination-caption.MuiTypography-body2.MuiTypography-colorInherit{
+    color: #3c3535 !important;
+}
+.MuiTypography-root.MuiTablePagination-caption.MuiTypography-caption.MuiTypography-colorInherit{
+    color: #3c3535 !important;
+}
